@@ -13,6 +13,7 @@
 🔭 I’m currently working on:
 - Building a Code Editor in C++ using the .NET Framework.
 - Exploring Compression App development in C++.
+- Learning App Development in Kotlin from Meta's Android Develoment Course.
 
 👯 I’m looking to collaborate on:
 - Open-source projects that involve C++ or development challenges.

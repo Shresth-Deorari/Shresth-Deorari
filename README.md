@@ -19,7 +19,7 @@
 
 ## 📬 Get In Touch
 - 💬 Ask me about: C++, Kotlin, Algorithms, or anything coding-related!
-- 📧 Email me: [sahabrocker@gmail.com](mailto:sahabrocker@gmail.com)
+- 📧 Email me: [shresthdeorari38@gmail.com](mailto:shresthdeorari38@gmail.com)
 
 ## 🌐 Socials
 - [LinkedIn](https://www.linkedin.com/in/shresth-deorari-iit-patna/)

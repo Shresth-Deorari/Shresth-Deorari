@@ -5,17 +5,17 @@
 
 ## 🚀 What I Do
 - 💻 **Software Development:** Experienced in C++, Python, Core Java, Kotlin, and more.
-- 🧩 **Problem Solving:** Enthusiastic about coding challenges and algorithms.
+- 🧩 **Problem Solving:** Enthusiastic about coding challenges, algorithms and developing/improving software.
 - 📚 **Learning & Teaching:** Always learning new technologies and sharing knowledge. Currently pursuing Meta's Android Development professional certification course.
 - 🎓 Pursuing **Mathematics and Computing** from IIT Patna.
 
 ## 📈 GitHub Stats
 🔭 I’m currently working on:
 - **Developing LaundryLink:** A washing machine booking system using Kotlin, Jetpack Compose, Android Studio, Ktor, Material3, and Firebase.
-- **Learning Android Development** in Kotlin & JavaScript from Meta's Professional Android Development Course.
+- **Learning Web Development** in Javascript from Meta's Professional Android Development Course.
 
 👯 I’m looking to collaborate on:
-- Open-source projects that involve C++, Kotlin, or Android development challenges.
+- Open-source projects that involve C++, Kotlin, HTML, CSS, JavaScript or Android development challenges.
 
 ## 📬 Get In Touch
 - 💬 Ask me about: C++, Kotlin, Algorithms, or anything coding-related!
@@ -35,9 +35,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresth-Deorari&layout=compact&hide_border=true&theme=radical)
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C++, Python, Kotlin, Java, JavaScript, MATLAB, SQL
-- **Development:** Android Development (Jetpack Compose, Material3), Firebase, Ktor
-- **IDEs & Tools:** Visual Studio Code, PyCharm, IntelliJ, MySQL Workbench, Android Studio
+- **Languages:** C++, Python, Kotlin, Java, JavaScript, MATLAB, SQL, HTML, CSS, JavaScript
+- **Development:** Android Development (Jetpack Compose, Material3), Firebase, Ktor, Basic Web Development
+- **IDEs & Tools:** Visual Studio Code, Visual Studio, PyCharm, IntelliJ, MySQL Workbench, Android Studio
 - **Version Control:** Git, Git Bash, GitHub
 - **Operating Systems:** Windows, Linux
 

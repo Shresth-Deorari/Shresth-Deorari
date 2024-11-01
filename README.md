@@ -29,10 +29,10 @@
 ## 📊 GitHub Stats
 
 ### Overview
-![Shresth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shresth-Deorari&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
+![Shresth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shresth-Deorari&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical&include_all_commits=true)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresth-Deorari&layout=compact&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresth-Deorari&layout=compact&hide_border=true&theme=radical&card_width=400)
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C++, Python, Kotlin, Java, JavaScript, MATLAB, SQL, HTML, CSS, JavaScript

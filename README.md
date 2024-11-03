@@ -9,10 +9,11 @@
 - 📚 **Learning & Teaching:** Always learning new technologies and sharing knowledge. Currently pursuing Meta's Android Development professional certification course.
 - 🎓 Pursuing **Mathematics and Computing** from IIT Patna.
 
-## 📈 GitHub Stats
+## 📈 Current Projects
 🔭 I’m currently working on:
 - **Developing LaundryLink:** A washing machine booking system using Kotlin, Jetpack Compose, Android Studio, Ktor, Material3, and Firebase.
-- **Learning Web Development:** Built an interactive clone of Amazon.com using HTML, CSS, and JavaScript.
+- **Learning React :** Following the Meta Android Development Course.
+- **Building a Text-Editor Using C :** Following few guides and tutorials online and hoping to learn to lot of low level coding.
 
 👯 I’m looking to collaborate on:
 - Open-source projects that involve C++, Kotlin, HTML, CSS, JavaScript, or Android development challenges.

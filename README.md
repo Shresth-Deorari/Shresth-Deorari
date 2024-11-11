@@ -47,6 +47,8 @@
 - **[Working with Data in Android](https://coursera.org/share/e6985c4454a4b4185d51ff11ea5a6345)**
 - **[Create the User Interface in Android Studio](https://coursera.org/share/15ee2213c72d6f69dff409d09c9a9310)**
 - **[Advanced Programming in Kotlin](https://coursera.org/share/3d6b50d91593a4f87b38e3407f558fba)**
+- **[Mobile Development and Javascript](https://coursera.org/share/75e6b390db236e44896265989953a253)**
+- **[React Basics](https://coursera.org/share/16efd654f316ae2f2a62840a48f48159)**
 
 ## 🎯 My Goals
 - Strive to create impactful solutions by tackling complex problems with elegant and efficient code.

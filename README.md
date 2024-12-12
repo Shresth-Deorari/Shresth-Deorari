@@ -4,16 +4,15 @@
 👋 Hi there! I'm Shresth, a passionate coder from IIT Patna with a strong interest in software development and problem-solving. Welcome to my GitHub profile!
 
 ## 🚀 What I Do
-- 💻 **Software Development:** Experienced in C++, Python, Core Java, Kotlin, HTML, CSS, JavaScript, and more.
+- 💻 **Software Development:** Experienced in C++, Python, Core Java, Kotlin, Jetpack Compose, React Native, HTML, CSS, TailwindCSS, JavaScript, React, Next.js,
 - 🧩 **Problem Solving:** Enthusiastic about coding challenges, algorithms, and developing/improving software.
 - 📚 **Learning & Teaching:** Always learning new technologies and sharing knowledge. Currently pursuing Meta's Android Development professional certification course.
 - 🎓 Pursuing **Mathematics and Computing** from IIT Patna.
 
 ## 📈 Current Projects
 🔭 I’m currently working on:
-- **Developing LaundryLink:** A washing machine booking system using Kotlin, Jetpack Compose, Android Studio, Ktor, Material3, and Firebase.
-- **Learning React :** Following the Meta Android Development Course.
 - **Building a Text-Editor Using C :** Following few guides and tutorials online and hoping to learn to lot of low level coding.
+- **Building my portfolio using Next.js, TailwindCSS and Framer Motion
 
 👯 I’m looking to collaborate on:
 - Open-source projects that involve C++, Kotlin, HTML, CSS, JavaScript, or Android development challenges.

@@ -15,7 +15,7 @@
 - **Building my portfolio :** using Next.js, TailwindCSS and Framer Motion
 
 👯 I’m looking to collaborate on:
-- Open-source projects that involve C++, Kotlin, HTML, CSS, JavaScript, or Android development challenges.
+- Open-source projects that involve C++, Kotlin, Android development, JavaScript, React or Web Development challenges.
 
 ## 📬 Get In Touch
 - 💬 Ask me about: C++, Kotlin, Algorithms, or anything coding-related!

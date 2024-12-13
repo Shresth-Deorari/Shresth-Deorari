@@ -22,6 +22,7 @@
 - 📧 Email me: [shresthdeorari38@gmail.com](mailto:shresthdeorari38@gmail.com)
 
 ## 🌐 Socials
+- [Portfolio](https://shresth-deorari.github.io/Portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/shresth-deorari-iit-patna/)
 - [LeetCode](https://leetcode.com/u/Shresth_Deorari/)
 - [CodeChef](https://www.codechef.com/users/sahabrocker)
@@ -56,5 +57,6 @@
 ## 🌟 Achievements
 - Achieved the **Knight** badge on LeetCode.
 - 3-star coder on CodeChef.
+- Build my Portfolio website using React.js, Next.js, TailwindCSS, Framer Motion
 
 ## Thank you for visiting my profile! Feel free to explore my repositories and let me know if you have any questions or suggestions. Happy coding!

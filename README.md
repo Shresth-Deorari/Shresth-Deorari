@@ -1,7 +1,7 @@
 # Hi, I'm Shresth Deorari
 
 ## Introduction
-👋 Hi there! I'm Shresth, a passionate coder from IIT Patna with a strong interest in software development and problem-solving. Welcome to my GitHub profile!
+👋 Hi there! I'm Shresth, a passionate coder from IIT Patna with a strong interest in software development and problem-solving. Check out my [Portfolio](https://shresth-deorari.github.io/Portfolio/).
 
 ## 🚀 What I Do
 - 💻 **Software Development:** Experienced in C++, Python, Core Java, Kotlin, Jetpack Compose, React Native, HTML, CSS, TailwindCSS, JavaScript, React, Next.js,
@@ -57,6 +57,6 @@
 ## 🌟 Achievements
 - Achieved the **Knight** badge on LeetCode.
 - 3-star coder on CodeChef.
-- Build my Portfolio website using React.js, Next.js, TailwindCSS, Framer Motion
+- Built my Portfolio website using React.js, Next.js, TailwindCSS, Framer Motion
 
 ## Thank you for visiting my profile! Feel free to explore my repositories and let me know if you have any questions or suggestions. Happy coding!

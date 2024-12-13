@@ -18,7 +18,7 @@
 - Open-source projects that involve C++, Kotlin, Android development, JavaScript, React or Web Development challenges.
 
 ## 📬 Get In Touch
-- 💬 Ask me about: C++, Kotlin, Algorithms, or anything coding-related!
+- 💬 Ask me about: C++, Kotlin, Algorithms,Development or anything coding-related!
 - 📧 Email me: [shresthdeorari38@gmail.com](mailto:shresthdeorari38@gmail.com)
 
 ## 🌐 Socials

@@ -12,7 +12,7 @@
 ## 📈 Current Projects
 🔭 I’m currently working on:
 - **Building a Text-Editor Using C :** Following few guides and tutorials online and hoping to learn to lot of low level coding.
-- **Building my portfolio using Next.js, TailwindCSS and Framer Motion
+- **Building my portfolio :** using Next.js, TailwindCSS and Framer Motion
 
 👯 I’m looking to collaborate on:
 - Open-source projects that involve C++, Kotlin, HTML, CSS, JavaScript, or Android development challenges.

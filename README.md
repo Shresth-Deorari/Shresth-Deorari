@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresth-Deorari&layout=compact&hide_border=true&theme=radical&card_width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresth-Deorari&layout=compact&hide=html,css&hide_border=true&theme=radical&card_width=450&cache_seconds=1800)
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C++, Python, Kotlin, Java, JavaScript, MATLAB, SQL, HTML, CSS, JavaScript

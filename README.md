@@ -3,6 +3,8 @@
 ## Introduction
 👋 Hi there! I'm Shresth, a passionate coder from IIT Patna with a strong interest in software development and problem-solving. Check out my [Portfolio](https://shresth-deorari.github.io/Portfolio/).
 
+![](https://komarev.com/ghpvc/?username=shresth-deorari)
+
 ## 🚀 What I Do
 - 💻 **Software Development:** Experienced in C++, Python, Core Java, Kotlin, Jetpack Compose, React Native, HTML, CSS, TailwindCSS, JavaScript, React, Next.js,
 - 🧩 **Problem Solving:** Enthusiastic about coding challenges, algorithms, and developing/improving software.

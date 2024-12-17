@@ -14,8 +14,9 @@
 
 ## 📈 Current Projects
 🔭 I’m currently working on:
-- **Building a Text-Editor Using C :** Following few guides and tutorials online and hoping to learn to lot of low level coding.
-- **Building my portfolio :** using Next.js, TailwindCSS and Framer Motion
+- **Daily Leetcode Solutions :** Posting solutions daily since August 2024, amassing over 120+ problems. Contributing to the Leetcode community by sharing solutions on my GitHub.
+- **Building a Text-Editor Using C :** Following tutorials and guides to gain hands-on experience with low-level programming concepts.
+- **Building my portfolio :** Recently developed using Next.js, TailwindCSS, and Framer Motion.
 
 ## 🌐 Socials
 - [Portfolio](https://shresth-deorari.github.io/Portfolio/)

@@ -41,7 +41,10 @@
 - **Version Control:** Git, Git Bash, GitHub
 - **Operating Systems:** Windows, Linux
 
-## 📚 Certifications
+## 📚 Professional Certifications
+- **[Meta Android Developer Professional Certificate](https://coursera.org/share/af355e352afcd1806ce54dd3212664ba)**
+
+## 📚 Course Certifications
 - **[Introduction to Android Mobile Application Development](https://coursera.org/share/17d626b0130801749f4391533f1c2a84)**
 - **[Version Control Systems](https://coursera.org/share/49580534fb0f1ab2988e64b488636998)**
 - **[Principles of UX/UI Design](https://coursera.org/share/cf9dc01fe9c4a254cd2a8d818d26f25d)**
@@ -51,6 +54,9 @@
 - **[Advanced Programming in Kotlin](https://coursera.org/share/3d6b50d91593a4f87b38e3407f558fba)**
 - **[Mobile Development and Javascript](https://coursera.org/share/75e6b390db236e44896265989953a253)**
 - **[React Basics](https://coursera.org/share/16efd654f316ae2f2a62840a48f48159)**
+- **[React Native](https://coursera.org/share/cc0a991c4dbaa0e7be9e69a7cb235a21)**
+- **[Android App Capstone](https://coursera.org/share/26e2221d40e7e511de2c2b4fbcac5572)**
+- **[Coding Interview Preparation](https://coursera.org/share/f59c0b64907e18a448cb28ca3bb99f2a)**
 
 ## 🎯 My Goals
 - Strive to create impactful solutions by tackling complex problems with elegant and efficient code.

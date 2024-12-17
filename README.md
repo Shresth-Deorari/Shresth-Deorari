@@ -8,20 +8,14 @@
 ## 🚀 What I Do
 - 💻 **Software Development:** Experienced in C++, Python, Core Java, Kotlin, Jetpack Compose, React Native, HTML, CSS, TailwindCSS, JavaScript, React, Next.js,
 - 🧩 **Problem Solving:** Enthusiastic about coding challenges, algorithms, and developing/improving software.
-- 📚 **Learning & Teaching:** Always learning new technologies and sharing knowledge. Currently pursuing Meta's Android Development professional certification course.
+- 📚 **Learning & Teaching:** Always learning new technologies and sharing knowledge.
 - 🎓 Pursuing **Mathematics and Computing** from IIT Patna.
+- 🎯 Professional Certification : [Meta Android Developer Professional Certificate](https://coursera.org/share/af355e352afcd1806ce54dd3212664ba)
 
 ## 📈 Current Projects
 🔭 I’m currently working on:
 - **Building a Text-Editor Using C :** Following few guides and tutorials online and hoping to learn to lot of low level coding.
 - **Building my portfolio :** using Next.js, TailwindCSS and Framer Motion
-
-👯 I’m looking to collaborate on:
-- Open-source projects that involve C++, Kotlin, Android development, JavaScript, React or Web Development challenges.
-
-## 📬 Get In Touch
-- 💬 Ask me about: C++, Kotlin, Algorithms,Development or anything coding-related!
-- 📧 Email me: [shresthdeorari38@gmail.com](mailto:shresthdeorari38@gmail.com)
 
 ## 🌐 Socials
 - [Portfolio](https://shresth-deorari.github.io/Portfolio/)
@@ -35,14 +29,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresth-Deorari&layout=compact&hide=css,Shell,Procfile&hide_border=true&theme=tokyonight&card_width=450&cache_seconds=1800)
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C++, Python, Kotlin, Java, JavaScript, MATLAB, SQL, HTML, CSS, JavaScript
+- **Languages:** C, C++, Python, Kotlin, Java, JavaScript, MATLAB, SQL, HTML, CSS, TypeScript, React.js, Next.js, React Native
 - **Development:** Android Development (Jetpack Compose, Material3), Firebase, Ktor, Basic Web Development
-- **IDEs & Tools:** Visual Studio Code, Visual Studio, PyCharm, IntelliJ, MySQL Workbench, Android Studio
+- **IDEs & Tools:** Visual Studio Code, Visual Studio, PyCharm, IntelliJ, MySQL Workbench, Android Studio, Windows Subsytem for Linux
 - **Version Control:** Git, Git Bash, GitHub
 - **Operating Systems:** Windows, Linux
-
-## 📚 Professional Certifications
-- **[Meta Android Developer Professional Certificate](https://coursera.org/share/af355e352afcd1806ce54dd3212664ba)**
 
 ## 📚 Course Certifications
 - **[Introduction to Android Mobile Application Development](https://coursera.org/share/17d626b0130801749f4391533f1c2a84)**
@@ -57,10 +48,6 @@
 - **[React Native](https://coursera.org/share/cc0a991c4dbaa0e7be9e69a7cb235a21)**
 - **[Android App Capstone](https://coursera.org/share/26e2221d40e7e511de2c2b4fbcac5572)**
 - **[Coding Interview Preparation](https://coursera.org/share/f59c0b64907e18a448cb28ca3bb99f2a)**
-
-## 🎯 My Goals
-- Strive to create impactful solutions by tackling complex problems with elegant and efficient code.
-- Passionate about using simpler code blocks to achieve sophisticated outcomes.
 
 ## 🌟 Achievements
 - Achieved the **Knight** badge on LeetCode.

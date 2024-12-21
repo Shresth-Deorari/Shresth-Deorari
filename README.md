@@ -5,6 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shresth-deorari)
 
+
 ## 🚀 What I Do
 - 💻 **Software Development:** Experienced in C++, Python, Core Java, Kotlin, Jetpack Compose, React Native, HTML, CSS, TailwindCSS, JavaScript, React, Next.js,
 - 🧩 **Problem Solving:** Enthusiastic about coding challenges, algorithms, and developing/improving software.

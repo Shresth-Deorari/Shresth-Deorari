@@ -45,11 +45,6 @@
   </div>
 </div>
 
-<!-- All Done GIF -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTXy/giphy.gif" alt="All Done GIF" width="300">
-</div>
-
 ---
 
 ## Skills
@@ -72,6 +67,11 @@
 - **[Meta Android Developer Professional Certificate](https://coursera.org/share/af355e352afcd1806ce54dd3212664ba)**  
 - **LeetCode Knight Badge (Rating: 1935)**  
 - **3-Star Coder on CodeChef**
+
+<!-- All Done GIF -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTXy/giphy.gif" alt="All Done GIF" width="300">
+</div>
 
 <!-- Full-Width Footer with Multi-Color Gradient -->
 <div align="center" style="margin-top: 30px;">

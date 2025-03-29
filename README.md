@@ -5,7 +5,7 @@
 
 <!-- Typing Animation Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00DDEB&center=true&vCenter=true&width=600&lines=Software+Developer;Android+Enthusiast;Problem+Solver;Building+the+Future" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00DDEB&center=true&vCenter=true&width=600&lines=Software+Developer;Numberphile;Problem+Solver;Building+the+Future" alt="Typing SVG">
 </p>
 
 <!-- Social Media Icons with Vibrant Colors -->
